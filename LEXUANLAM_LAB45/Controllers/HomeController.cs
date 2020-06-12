@@ -22,6 +22,7 @@ namespace LEXUANLAM_LAB45.Controllers
             return View();
         }
 
+
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
